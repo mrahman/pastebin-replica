@@ -1,0 +1,7 @@
+CVS
+*.tar.gz
+*.prj
+posts
+local
+pastebin.sublime-project
+pastebin.sublime-workspace

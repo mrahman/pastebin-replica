@@ -1,0 +1,10 @@
+#
+# Example
+User-agent: ia_archiver
+Disallow: /
+
+User-agent:Wget
+Disallow: /
+
+User-agent: dotbot
+Disallow: / 
